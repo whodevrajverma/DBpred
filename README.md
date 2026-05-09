@@ -12,7 +12,7 @@ Patiyal, S., Dhall, A., & Raghava, G. P. S. (2022).
 **A deep learning-based method for the prediction of DNA interacting residues in a protein.** *Briefings in Bioinformatics*, 23(5), bbac322.
 https://doi.org/10.1093/bib/bbac322
 
-This dataset and tool can also be found on Zenodo at
+This dataset and tool can also be found on Zenodo at https://doi.org/10.5281/zenodo.20094438
 
 ## About the Research
 
