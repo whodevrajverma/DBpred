@@ -1,7 +1,7 @@
-# DNARes: Deep Learning for Prediction of DNA Interacting Residues
+# DBpred: A deep learning-based method for the prediction of DNA interacting residues in a protein
 
-**DNARes** is a high-precision computational tool developed to predict DNA-interacting residues in a protein sequence. Understanding these interactions is vital, as they govern fundamental biological processes such as gene transcription,
-regulation, and splicing. DNARes addresses the limitations of traditional methods by employing advanced deep-learning architectures to identify specific binding sites when 3D structures are unavailable.
+**DBpred** is a high-precision computational tool developed to predict DNA-interacting residues in a protein sequence. Understanding these interactions is vital, as they govern fundamental biological processes such as gene transcription,
+regulation, and splicing. DBpred addresses the limitations of traditional methods by employing advanced deep-learning architectures to identify specific binding sites when 3D structures are unavailable.
 
 **Web Server:** https://webs.iiitd.edu.in/raghava/dbpred/
 
@@ -16,7 +16,7 @@ This dataset and tool can also be found on Zenodo at
 
 ## About the Research
 
-The specific identification of residues that contact DNA is a major challenge in structural biology and bioinformatics. DNARes utilizes deep learning to capture complex patterns within protein sequences that signify a propensity for DNA binding.
+The specific identification of residues that contact DNA is a major challenge in structural biology and bioinformatics. DBpred utilizes deep learning to capture complex patterns within protein sequences that signify a propensity for DNA binding.
 
 * **Training Dataset:** The models were trained on a large-scale dataset of **646 DNA-binding proteins**, containing 15,636 DNA-interacting and 298,503 non-interacting residues.
 * **Evaluation:** The performance was rigorously validated on an independent dataset of 46 proteins, ensuring the model generalizes well to proteins with low sequence similarity (<30%) to the training set.
